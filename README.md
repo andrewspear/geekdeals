@@ -1,1 +1,1 @@
-# geekdeals
+# geek.deals
